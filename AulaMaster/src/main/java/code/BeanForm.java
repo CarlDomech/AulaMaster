@@ -1,7 +1,7 @@
 package code;
 //asdasdnmkjnm
 import java.io.Serializable;
-
+//Puta madre
 public class BeanForm implements Serializable{
 
 	private String name;
