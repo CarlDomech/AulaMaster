@@ -1,5 +1,5 @@
 package code;
-
+//asdasd
 import java.io.Serializable;
 
 public class BeanForm implements Serializable{
